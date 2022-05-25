@@ -29,10 +29,5 @@ public class Principal {
 				}
 			}
 		}
-		System.out.println("Número de vocales a: "+ va+"\n"
-						  +"Número de vocales e: "+ ve+"\n"
-						  +"Número de vocales i: "+ vi+"\n"
-						  +"Número de vocales o: "+ vo+"\n"
-						  +"Número de vocales u: "+ vu+"\n");
 	}
 }
